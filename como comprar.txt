@@ -1,0 +1,9 @@
+- uma marca;
+- tamanho;
+- wifi; 
+- durabilidade;
+- garantia;
+- preço;
+- configurações;
+- tipo de tela;
+- se é smart tv;
